@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Gulmira</h1>
 <h3 align="center">A passionate full-stack web developer & software engineering student</h3>
 
-<img src="https://your-banner-image-url" alt="Banner" align="center" width="100%">
+<img src="https://github.com/00019210/Lunacy/blob/89f60087b02749c9ae5818f9ce3ab22bd803ca77/gh.gif" alt="Banner" align="center" width="100%">
 
 ---
 
